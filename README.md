@@ -27,7 +27,7 @@ To run tests, run the following command:
 
 ## Usage
 
-Users can easily add or subtract funds and the graph on the page will update automatically. Your current total money will also be displayed on the top of the screen.
+Users can easily add or subtract funds and the graph on the page will update automatically. Your current total money will also be displayed on the top of the screen. Users can also use this application offline.
 
 ![Budget Tracker](public/img/budget-pic-1.png)
 
